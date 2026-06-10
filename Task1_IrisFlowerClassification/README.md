@@ -127,5 +127,5 @@ Shows how many flowers were correctly and incorrectly classified.
 
 ## 👤 Author
 
-**Primu**
+**Anubhav Malik**
 CodeAlpha Data Science Internship
